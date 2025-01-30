@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there, I'm Siddharth Madupathi, a software engineer and a tech enthusiast 👋
+
+I love building projects and learning more about tech and how everything runs under the hood. I have a bachelor's degree in computer science and one of the fields I'm invested more in is web development, and besides that, some other areas of interest would be networks and communication and distributed systems.
+
+
 
 <!--
 **dart5idius/dart5idius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
